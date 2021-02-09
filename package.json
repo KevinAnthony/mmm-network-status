@@ -1,0 +1,22 @@
+{
+  "name": "mmm-network-status",
+  "version": "1.0.0",
+  "description": "Magic Mirror Module for Network Status Icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinAnthony/mmm-network-status"
+  },
+  "author": "Kevin Anthony",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KevinAnthony/mmm-network-status/issues"
+  },
+  "homepage": "https://github.com/KevinAnthony/mmm-network-status#readme",
+  "devDependencies": {
+    "eslint": "^7.5.0"
+  }
+}
